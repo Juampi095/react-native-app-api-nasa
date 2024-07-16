@@ -13,8 +13,11 @@ Esta aplicación móvil, desarrollada con React Native, ofrece acceso a las imá
 - **React Native**: Plataforma utilizada para el desarrollo de la aplicación móvil.
 - **React Navigation**: Biblioteca para manejar la navegación entre diferentes pantallas dentro de la aplicación.
 - **Date-fns**: Herramienta para manipular fechas, utilizada aquí para gestionar la visualización de las fechas asociadas a cada imagen.
+
+
 ##Para ejecutar la app colocar el siguiente comando:
 -**npm start**
 
-  ##Instalación y Uso
+
+##Instalación y Uso
   Luego de haber ejecutado el comando -**npm start** se instalará la app e iniciará el emulador permitiendo al usuario ver la app e interactuar con la misma.
